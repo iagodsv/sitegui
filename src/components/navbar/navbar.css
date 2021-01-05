@@ -1,0 +1,31 @@
+.navbar{
+    background-color:#363636;
+}
+.navbar-toggler{
+    background-color: #828282;
+    height: 30px;
+    width: 40px;
+   
+}
+.navbar-toggler-icon{
+    color: black;
+    
+}
+
+.logo{
+    height: 45px;
+    width: auto;
+}
+ion-icon {
+    font-size: 30px;
+    color: white;
+    margin-top: -4px;
+    margin-left: -5px;
+  }
+
+  .navbar-nav{
+    background-color:#363636
+  }
+  .collapse:not(.show) {
+    justify-content: flex-end;
+}
